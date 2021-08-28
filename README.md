@@ -19,8 +19,10 @@ Within the jupyter notebook, the play button in the race chart begins the animat
 \
 &nbsp;
 
-https://user-images.githubusercontent.com/8281173/131233004-f9666737-be51-4725-913d-77af5577be68.mp4
-\
-&nbsp;
 
-![race chart market cap](https://user-images.githubusercontent.com/8281173/131232420-d133f36d-0ee5-4e82-a490-8986cbce7c5a.png)
+
+
+https://user-images.githubusercontent.com/8281173/131233212-22f65aeb-91ad-4527-b0a0-d940a77e1470.mp4
+
+
+
