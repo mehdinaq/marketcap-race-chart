@@ -3,7 +3,7 @@
 ### [Animated plotting using Web-scraped data](https://github.com/mehdinaq/marketcap-race-chart/blob/main/Race%20Chart.ipynb)
 
 ### Overview
-I created an animated bar chart (aka race chart) to visualize the top 5 richest companies over time. Public companies are listed on stock exchanges and the stock price determines their value or market capitalization. I web scraped market capitalziation data from 2001-2021 and used the matplotlib library to show the top 5 companies with the highest market capitalizaiton over time in an animated race chart.<br /><br />
+I created an animated bar chart (aka race chart) to visualize the top 5 companies by market capitalization over time. Public companies are listed on stock exchanges and the stock price determines their value or market capitalization. I web-scraped market capitalziation data from 2001-2021 and used the matplotlib library to show the top 5 companies with the highest market capitalizaiton over time in an animated race chart.<br /><br />
 
 ### Data Source
 Web scrape the market capitalziation data from [website](https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/). The timeframe of the data available is 2001-2021.<br /><br />
